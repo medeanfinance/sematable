@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// update to prop-types package for react 16 prep
 import PropTypes from 'prop-types';
 import _ from 'lodash';
 
